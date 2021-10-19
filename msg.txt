@@ -1,0 +1,5 @@
+Dear ${student_name},
+
+Congratulations! Please find your certificate attached to this email!
+
+Regards,
