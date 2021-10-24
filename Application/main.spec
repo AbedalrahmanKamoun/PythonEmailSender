@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\admin\\Desktop\\Projects\\Misak Project\\v1 - Ibrahim Version'],
+             pathex=['C:\\Users\\admin\\Desktop\\Projects\\Misak Project\\Source Code\\v2 - updated'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True )
+          console=True , icon='icon.ico')
